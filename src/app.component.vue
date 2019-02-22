@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <el-container>
-      <el-aside width="200px">
+     <!-- <el-aside width="200px">
         <SideNavigation></SideNavigation>
-      </el-aside>
+      </el-aside> -->
       <el-main>
         <router-view></router-view>
       </el-main>
